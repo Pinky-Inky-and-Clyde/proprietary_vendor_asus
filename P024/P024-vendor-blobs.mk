@@ -416,7 +416,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/P024/proprietary/vendor/lib/libqti-perfd-client.so:system/vendor/lib/libqti-perfd-client.so \
     vendor/asus/P024/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
     vendor/asus/P024/proprietary/vendor/lib/libdisp-aba.so:system/vendor/lib/libdisp-aba.so \
-    vendor/asus/P024/proprietary/vendor/lib/libjni_livedisplay.so:system/vendor/lib/libjni_livedisplay.so \
     vendor/asus/P024/proprietary/vendor/lib/libmm-abl.so:system/vendor/lib/libmm-abl.so \
     vendor/asus/P024/proprietary/vendor/lib/libmm-abl-oem.so:system/vendor/lib/libmm-abl-oem.so \
     vendor/asus/P024/proprietary/vendor/lib/libmm-als.so:system/vendor/lib/libmm-als.so \
@@ -467,7 +466,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/P024/proprietary/etc/firmware/wcnss_8916.b10:system/etc/firmware/wcnss_8916.b10 \
     vendor/asus/P024/proprietary/etc/firmware/wcnss_8916.b11:system/etc/firmware/wcnss_8916.b11 \
     vendor/asus/P024/proprietary/etc/firmware/wcnss_8916.mdt:system/etc/firmware/wcnss_8916.mdt \
-    vendor/asus/P024/proprietary/lib/libwcnss_qmi.so:system/lib/libwcnss_qmi.so \
     vendor/asus/P024/proprietary/etc/firmware/ice40.bin:system/etc/firmware/ice40.bin \
     vendor/asus/P024/proprietary/etc/firmware/leia_pfp_470.fw:system/etc/firmware/leia_pfp_470.fw \
     vendor/asus/P024/proprietary/etc/firmware/leia_pm4_470.fw:system/etc/firmware/leia_pm4_470.fw \
